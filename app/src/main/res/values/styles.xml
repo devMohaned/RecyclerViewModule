@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="list_item_image_size">
+        <item name="android:layout_width">@dimen/list_item_image_width</item>
+        <item name="android:width">@dimen/list_item_image_width</item>
+        <item name="android:layout_height">@dimen/list_item_image_height</item>
+        <item name="android:height">@dimen/list_item_image_height</item>
+    </style>
+
+</resources>
