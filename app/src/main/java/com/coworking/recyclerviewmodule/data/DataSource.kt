@@ -15,7 +15,9 @@ class DataSource {
             Item("Val Item #5", android.R.drawable.ic_dialog_dialer),
             Item("Val Item #6", android.R.drawable.ic_lock_lock),
             Item("Val Item #7", android.R.drawable.ic_btn_speak_now),
-            Item("Val Item #8", android.R.drawable.ic_menu_add)
+            Item("Val Item #8", android.R.drawable.ic_menu_add),
+            Item("Val Item #9", android.R.drawable.ic_menu_compass)
+
         )
     }
 }

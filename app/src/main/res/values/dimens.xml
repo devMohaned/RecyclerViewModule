@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="list_item_image_width">64dp</dimen>
-    <dimen name="list_item_image_height">64dp</dimen>
+    <dimen name="list_item_image_width">128dp</dimen>
+    <dimen name="list_item_image_height">128dp</dimen>
     <dimen name="normal_spacing">8dp</dimen>
 
 

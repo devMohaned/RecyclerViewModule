@@ -1,3 +1,5 @@
 package com.coworking.recyclerviewmodule.models
 
-data class Item(val itemName: String, val itemImageResource : Int)
+import androidx.annotation.DrawableRes
+
+data class Item(val itemName: String, @DrawableRes val itemImageResource : Int)
